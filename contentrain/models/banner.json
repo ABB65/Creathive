@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "fsdfds",
+    "fieldId": "fsdfds",
+    "modelId": "banner",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
